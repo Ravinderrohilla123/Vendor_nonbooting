@@ -29,18 +29,6 @@ dex_import {
 }
 
 dex_import {
-	name: "mediatek-gwsd",
-	owner: "xiaomi",
-	jars: ["proprietary/framework/mediatek-gwsd.jar"],
-}
-
-dex_import {
-	name: "mediatek-gwsdv2",
-	owner: "xiaomi",
-	jars: ["proprietary/framework/mediatek-gwsdv2.jar"],
-}
-
-dex_import {
 	name: "mediatek-ims-base",
 	owner: "xiaomi",
 	jars: ["proprietary/framework/mediatek-ims-base.jar"],
